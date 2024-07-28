@@ -10,6 +10,7 @@
 Mayank6787/Mayank6787 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2>I am a <span color="red">Full Stack Developer</span></h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mayank6787&theme=onedark" />
 </a>
@@ -18,5 +19,4 @@ You can click the Preview link to take a look at your changes.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank6787&layout=compact&langs_count=8&card_width=320&theme=darcula" />
 </a>
 
-<!--- ---->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mayank6787)](https://github.com/anuraghazra/github-readme-stats)
+
