@@ -8,17 +8,19 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher by profession, and an incoming MS in Computer Science (Biomedical Informatics) student at Arizona State University! \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
+💡 &nbsp; I'm a software developer  \
+💻 &nbsp;I'm currently in developing Full stack applications.\
+🎓&nbsp;I graduated from VIT Bhopal University , Bhopal , Madhay Pradesh (B.Tech, Computer Science and Engineering, Batch of 2021).\
+🌱 &nbsp;I'm on track for learning more about .\
+✍️ &nbsp;In my free time, I play football .\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at asinghdhadwal@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at mayanksingh6787@gmail.com I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/mayank-singh6787/) for more details about work experience.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank6787&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Mayank6787&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank6787&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank6787&theme=dark)](https://git.io/streak-stats)
 
 ### 🛠 &nbsp;Tech Stack
 
