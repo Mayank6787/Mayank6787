@@ -14,9 +14,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mayank6787&theme=onedark" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)\
 <hr>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank6787&layout=compact&langs_count=8&card_width=320&theme=darcula" />
-</a>
 
 
