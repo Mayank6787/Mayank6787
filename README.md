@@ -11,11 +11,11 @@
 💡 &nbsp; I'm a software developer  \
 💻 &nbsp;I'm currently in developing Full stack applications.\
 🎓&nbsp;I graduated from VIT Bhopal University , Bhopal , Madhay Pradesh (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about .\
-✍️ &nbsp;In my free time, I play football .\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+🌱 &nbsp;I'm on track for learning more about backend development.\
+✍️ &nbsp;In my free time, I play football and go on walks .\
+💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at mayanksingh6787@gmail.com I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/mayank-singh6787/) for more details about work experience.
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/mayank-singh6787/) .
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Mayank6787&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
