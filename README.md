@@ -8,7 +8,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer  \
+💡 &nbsp; I'm a Full stack developer  \
 💻 &nbsp;I'm currently in developing Full stack applications.\
 🎓&nbsp;I graduated from VIT Bhopal University , Bhopal , Madhay Pradesh (B.Tech, Computer Science and Engineering, Batch of 2021).\
 🌱 &nbsp;I'm on track for learning more about backend development.\
