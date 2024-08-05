@@ -10,7 +10,7 @@
 
 💡 &nbsp; I'm a Full stack developer  \
 💻 &nbsp;I'm currently in developing Full stack applications.\
-🎓&nbsp;I graduated from VIT Bhopal University , Bhopal , Madhay Pradesh (B.Tech, Computer Science and Engineering, Batch of 2021).\
+🎓&nbsp;I'm presently doing my B.Tech. in computer science and engineering with the batch of 2021 at VIT Bhopal University in Bhopal, Madhya Pradesh.\
 🌱 &nbsp;I'm on track for learning more about backend development.\
 ✍️ &nbsp;In my free time, I play football and go on walks .\
 💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics!\
