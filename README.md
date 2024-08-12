@@ -8,7 +8,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Full stack developer  \
+💡 &nbsp; I'm a Frontend developer  \
 💻 &nbsp;I'm currently in developing Full stack applications.\
 🎓&nbsp;I'm presently doing my B.Tech. in computer science and engineering with the batch of 2021 at VIT Bhopal University in Bhopal, Madhya Pradesh.\
 🌱 &nbsp;I'm on track for learning more about backend development.\
