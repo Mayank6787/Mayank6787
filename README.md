@@ -8,7 +8,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Frontend developer  \
+💡 &nbsp; I'm a Full-Stack developer  \
 💻 &nbsp;I'm currently in developing Full stack applications.\
 🎓&nbsp;I'm presently doing my B.Tech. in computer science and engineering with the batch of 2021 at VIT Bhopal University in Bhopal, Madhya Pradesh.\
 🌱 &nbsp;I'm on track for learning more about backend development.\
@@ -32,6 +32,7 @@
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
